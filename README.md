@@ -1,5 +1,5 @@
 # O-medocs_back
- View project on https://o-medocs.xyz
+ View project on https://o-medocs.netlify.app/
 - Log in as pharmacists : 
   - e-mail: pharmacieetoile@gmail.com
   - password: Racekok974
